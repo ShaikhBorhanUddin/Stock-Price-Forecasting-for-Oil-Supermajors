@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Host-GitHub-black?logo=github&logoColor=white" alt="Host: GitHub">
   <img src="https://img.shields.io/github/forks/ShaikhBorhanUddin/Stock-Price-Forecasting-for-Oil-Supermajors?style=social" alt="Forks">
   <img src="https://img.shields.io/badge/Project-Ongoing-yellow" alt="Project Status">
-</p>
+</p>  
+
+![Dashboard](https://github.com/ShaikhBorhanUddin/Stock-Price-Forecasting-for-Oil-Supermajors/blob/main/Images/title_supermajors.png?raw=true)  
+
+
 
 
