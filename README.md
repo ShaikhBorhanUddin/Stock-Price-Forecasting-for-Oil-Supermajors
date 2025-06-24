@@ -1,1 +1,1 @@
-# Stock-Price-Forecasting-for-Oil-Supermajors
+# Stock Price Forecasting for Oil Supermajors
