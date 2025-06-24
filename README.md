@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/last-commit/ShaikhBorhanUddin/Stock-Price-Forecasting-for-Oil-Supermajors" alt="Last Commit">
   <img src="https://img.shields.io/github/issues/ShaikhBorhanUddin/Stock-Price-Forecasting-for-Oil-Supermajors" alt="Issues">
   <img src="https://img.shields.io/badge/Framework-TensorFlow-lightblue?logo=tensorflow&logoColor=white" alt="Framework: TensorFlow">
-  <img src="https://img.shields.io/badge/TimeSeries-ARIMA%20%26%20Prophet-blueviolet" alt="Models: ARIMA & Prophet">
+  <img src="https://img.shields.io/badge/TimeSeries-ARIMA%20%7C%20Prophet-blueviolet" alt="Models: ARIMA | Prophet">
   <img src="https://img.shields.io/badge/Dataset-Yahoo%20Finance-232f3e?logo=yahoo&logoColor=white" alt="Dataset: Yahoo Finance">
   <img src="https://img.shields.io/badge/Models-RNN%20%7C%20LSTM%20%7C%20BiLSTM%20%7C%20XGBoost+LSTM-ff69b4" alt="Models: RNN | LSTM | BiLSTM | XGBoost+LSTM">
   <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git&logoColor=white" alt="Version Control: Git">
